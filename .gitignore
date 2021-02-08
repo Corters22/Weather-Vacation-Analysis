@@ -1,6 +1,6 @@
 #adding api keys
 WeatherPy/api_key.py
-VacationPy/api_key.py
+VacationPy/api_keys.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
