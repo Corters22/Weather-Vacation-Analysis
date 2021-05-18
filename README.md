@@ -10,7 +10,7 @@ The VacationPy starts with the city csv pulled from WeatherPy. I started with di
 
 #### Included Images
 
-You can find all the chart images in the Images directory by clicking [here.](https://github.com/Corters22/python-api-challenge/tree/main/Images)
+You can find all the chart images in the Images directory by clicking [here.](Images)
  
 #### Conclusions
 
