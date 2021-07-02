@@ -1,8 +1,10 @@
-# Python API Challenge
+# What's the Weather Like?
 
 ### How to find the perfect vacation spot.
 
-#### Description
+#### Background
+
+
 
 This challenge includes two parts, WeatherPy and VacationPy. I started with WeatherPy and randomly choose a collection of latitude and longitude coordinates. From these coordinates, I ran through the cities module and grab the city that is closest to the coordinates. Using these cities, I pulled the current weather information from the public weather API, api.openweathermap.org/data/2.5/weather?q. Note that not all cities will produce a result. After pulling the weather information, I then saved the city and weather information to a csv and analyzed the weather data. There are several charts available with observations based on those charts.
 
