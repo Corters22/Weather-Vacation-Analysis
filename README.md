@@ -33,4 +33,6 @@ What is the best place to vacation? Are there hotels near by? Using my ideal wea
 
 3. Heatmap with humidity levels and hotel markers.
 
-![pic of heatmap](Images/'humidity_heatma_with_hotel_markers.png')
+![pic of heatmap](Images/humidity_heatmap_with_hotel_markers.png)
+
+4. There are additional conclusions found in the Jupyter Notebook [WeatherPy](WeatherPy/WeatherPy.ipynb) with additional charts.
