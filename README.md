@@ -13,8 +13,10 @@ What is the best place to vacation? Are there hotels near by? Using my ideal wea
 <h2>Data</h2>
 
   - API urls used
-     - WeatherPy - "api.openweathermap.org/data/2.5/weather?q="
+     - WeatherPy - "http://api.openweathermap.org/data/2.5/weather?q="
      - VacationPy - "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
      - *note: Check the documentation for the above APIs for registration and/or API keys and formatting*
   - City list CSV
     - [city_data.csv](city_data.csv)
+
+<h2>Analysis</h2>
