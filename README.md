@@ -19,4 +19,18 @@ What is the best place to vacation? Are there hotels near by? Using my ideal wea
   - City list CSV
     - [city_data.csv](city_data.csv)
 
-<h2>Analysis</h2>
+<h2>Analysis/Conclusions</h2>
+
+1. The distance from the equator had a bigger effect on maximum temperature than any other weather conditions.
+
+![pic of chart](Images/lat_vs_temp_north.png)
+![pic of chart south](Images/lat_vs_temp_south.png)
+
+2. Humidity was the 2nd most affected weather condition.
+
+![pic of chart](Images/lat_vs_humid_north.png)
+![pic of chart south](Images/lat_vs_humid_south.png)
+
+3. Heatmap with humidity levels and hotel markers.
+
+![pic of heatmap](Images/'humidity_heatma_with_hotel_markers.png')
